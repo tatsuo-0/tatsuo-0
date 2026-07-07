@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tatsuya 👋
 
-<!--
-**tatsuo-0/tatsuo-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer based in Fukuoka, Japan.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- End-to-end testing with Playwright
+- CI/CD with GitHub Actions
+- Test design & quality assurance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+- [todo-app-playwright](https://github.com/tatsuo-0/todo-app-playwright) — E2E tests with Playwright + GitHub Actions
+- [ec-app-playwright](https://github.com/tatsuo-0/ec-app-playwright) — E2E tests for EC site
+
+## 🎯 Currently Learning
+- GitHub Actions (advanced)
+- JSTQB ALTA
